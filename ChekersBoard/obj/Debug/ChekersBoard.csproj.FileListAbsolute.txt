@@ -1,0 +1,10 @@
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\bin\Debug\ChekersBoard.exe.config
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\bin\Debug\ChekersBoard.exe
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\bin\Debug\ChekersBoard.pdb
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.csprojAssemblyReference.cache
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.Form1.resources
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.Properties.Resources.resources
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.csproj.GenerateResource.cache
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.csproj.CoreCompileInputs.cache
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.exe
+C:\Users\hmzko\Desktop\c#\ChekersBoard\ChekersBoard\obj\Debug\ChekersBoard.pdb
